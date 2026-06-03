@@ -82,6 +82,7 @@ Published in IRJET (2023)
 
 - Random Forest, LightGBM, SVM, K-SVM  
 - Accuracy: **96%**, AUC: **0.945**
+- 📄 Research Paper: https://www.irjet.net/archives/V10/i4/IRJET-V10I4256.pdf
 
 ---
 

@@ -13,7 +13,7 @@ Machine Learning Engineer with ~2 years of experience in Machine Learning, Deep 
 
 - Machine Learning Engineer specializing in end-to-end AI solutions  
 - Experience across NLP, Computer Vision, Predictive Analytics, and Generative AI  
-- Built and deployed 60+ ML/DL projects in real-world use cases  
+- Built 60+ ML/DL projects in real-world use cases  
 - Hands-on experience with GPT, Gemini APIs, Prompt Engineering, and RAG systems  
 - Currently focusing on MLOps, scalable ML pipelines, and production deployment  
 

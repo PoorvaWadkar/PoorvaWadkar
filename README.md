@@ -53,50 +53,6 @@ Machine Learning Engineer with ~2 years of experience in Machine Learning, Deep 
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Telecom Customer Churn Prediction
-- ML pipeline on 7,043 customers  
-- Random Forest: **95.67% Accuracy**, ROC-AUC: **95.58%**  
-- Power BI used for EDA & insights  
-
-### 🔹 Offensive Language Detection
-- 24,783 social media posts  
-- Models: MLP, CNN, LSTM, DistilBERT  
-- F1 Score: **0.935**  
-- Dash web app deployed  
-
-### 🔹 Aspect-Based Sentiment Analysis (ABSA)
-- 5.26M Yelp reviews  
-- ELECTRA model achieved **F1: 0.9920**  
-- Automated aspect-opinion extraction using spaCy + VADER  
-
-### 🔹 Smart Plant Disease Detection
-- CNN + DenseNet121 + MobileNetV2 ensemble  
-- Accuracy: **96.2%**  
-- Deployed using Dash  
-
-### 🔹 RAG-based PDF QA System
-- LangChain + Weaviate  
-- Gemini Flash integration  
-- Context-aware document QA system  
-
-### 🔹 MLOps Wine Quality Pipeline
-- MLflow + DagsHub tracking  
-- Modular pipeline with Flask deployment  
-
----
-
-## 📄 Publications
-
-**Heart Failure Risk Prediction using Machine Learning Models**  
-Published in IRJET (2023)
-
-- Random Forest, LightGBM, SVM, K-SVM  
-- Accuracy: **96%**, AUC: **0.945**
-
----
-
 ## 💼 Experience
 
 ### Machine Learning Engineer  
@@ -119,10 +75,13 @@ Published in IRJET (2023)
 
 ---
 
-## 🎓 Education
+## 📄 Publications
 
-- **MCA (2025)** – International Institute of Management Science, Pune  
-- **B.E. Computer Engineering (2023)** – Dr. D. Y. Patil College of Engineering, Talegaon, Pune  
+**Heart Failure Risk Prediction using Machine Learning Models**  
+Published in IRJET (2023)
+
+- Random Forest, LightGBM, SVM, K-SVM  
+- Accuracy: **96%**, AUC: **0.945**
 
 ---
 
